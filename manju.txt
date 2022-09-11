@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is A450-89FE
-
- Directory of C:\git_project
-
-11-09-2022  10.30 AM    <DIR>          .
-11-09-2022  10.30 AM    <DIR>          ..
-11-09-2022  10.30 AM                 0 manju.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  1,855,790,403,584 bytes free
+ this is for git tutorial
