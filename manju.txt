@@ -1,2 +1,12 @@
  this is for git tutorial
  me and nithin are attending git classes every day.
+ 
+ 
+ 
+ 
+ 
+ nithin is my close friend.
+ 
+ he lives in chikkamagaluru.
+ 
+ he is bascically a arecanut former.
