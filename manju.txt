@@ -1,1 +1,2 @@
  this is for git tutorial
+ me and nithin are attending git classes every day.
